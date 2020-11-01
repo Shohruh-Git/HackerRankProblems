@@ -1,2 +1,2 @@
 # HackerRankProblems
-I upload every solution of questions that I could solve in Hackerrank.com
+I upload every solution of questions that I could solve in Hackerrank.com (Problem Solving Part)
